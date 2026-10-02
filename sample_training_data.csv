@@ -1,0 +1,26 @@
+text,category,urgency
+I was charged twice for my subscription and need a refund,Billing,High
+The invoice amount is incorrect,Billing,Medium
+Payment failed but the money was deducted,Billing,High
+Please send me a copy of my receipt,Billing,Low
+I was charged after cancelling my plan,Billing,Critical
+The app crashes whenever I open the dashboard,Technical,High
+The website returns a server error for all users,Technical,Critical
+I cannot export a report from the application,Technical,Medium
+The page loads slowly,Technical,Low
+The latest update broke the search function,Technical,High
+I forgot my password and cannot reset it,Account,Medium
+My account is locked and I need access for work,Account,High
+Someone accessed my account without permission,Account,Critical
+Please update the email address on my profile,Account,Low
+I cannot receive the verification code,Account,Medium
+Does the premium plan include advanced reports,Product,Low
+The product arrived damaged and cannot be used,Product,High
+I want to request a feature for a future release,Product,Low
+The advertised accessory was missing from my package,Product,Medium
+Is this device compatible with my operating system,Product,Medium
+What are your customer support hours,Other,Low
+I would like to share feedback about your service,Other,Low
+Please connect me with the appropriate department,Other,Medium
+Our office cannot operate due to a service disruption,Other,Critical
+Can someone call me back today,Other,High
